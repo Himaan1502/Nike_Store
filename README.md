@@ -46,18 +46,18 @@ Follow these instructions to set up the project locally.
    git clone https://github.com/Himaan1502/Nike_Store.git
    cd nike-store
 
-##Usage
+## Usage
 - Explore Products: Browse through the collection of Nike shoes.
 - Detailed View: Click on a product to see more details.
 - Responsive Design: Enjoy a smooth experience on any screen size.
 
-##Contributing
+## Contributing
 Contributions are welcome! Feel free to fork the project and submit a pull request.
 
-##License
+## License
 Distributed under the MIT License. See LICENSE for more information.
 
-##Acknowledgements
+## Acknowledgements
 - Nike for inspiring the product line.
 - React Documentation
 - Tailwind CSS Documentation   
